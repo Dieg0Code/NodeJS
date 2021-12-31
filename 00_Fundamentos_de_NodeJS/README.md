@@ -37,7 +37,7 @@ Todo esto lo hace NodeJS de forma automatica.
 
 ### Nodemon
 
-**Nodemon** es una herramienta que permite ejecutar archivos de JavaScript en tiempo real. Nos evita tener que reiniciar el servidor cada vez que modifiquemos un archivo.
+**Nodemon** es una herramienta de desarrollo que permite ejecutar archivos de JavaScript en tiempo real. Nos evita tener que reiniciar el servidor cada vez que modifiquemos un archivo.
 
 Para instalarlo en windows debemos ejecutar la consola como administrador y escribir:
 
